@@ -1,0 +1,60 @@
+#contain{
+    margin: 0px auto;
+    background-color: darkgrey;
+    width: 1000px;
+    height: 500px;
+    
+}
+#connav{
+    height: 100px;
+    background-color: cornsilk;
+}
+
+.logo{
+    color: darkorange;
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 40px;
+    text-shadow:2px 2px darkslategrey;
+    text-transform: capitalize;
+}
+#nav{
+    float:right;
+    margin-top: -70px;
+}
+nav a{
+    font-size: 28px;
+    color: darkorange;
+    border: 2px;
+    padding: 9px;
+}
+nav a:hover{
+    color: darkslategray;
+}
+
+#menu{
+    height: 300px;
+    background-color:ghostwhite;
+    margin-left: 20%;
+    background: url(images/school.jpg);
+    background-repeat: no-repeat;
+}
+#contact{
+    background-color: green;
+    height: 300px;
+}
+
+#address{
+    width: 48%;
+    float: left;
+    margin: 2px 8px;
+    background-color: burlywood;
+    height: 300px;
+}
+.name{
+    width: 400px;
+    margin-left: 20px;
+}
+.book{
+    width: 500px;
+}
